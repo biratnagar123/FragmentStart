@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentStart</string>
+    <string name="actor_name"> Amitabh Bachan</string>
+    <string name="sportsperson_name"> Sachin Tendulkar</string>
+    <string name="button1"> Actor</string>
+    <string name="button2">SportStar</string>
+</resources>
